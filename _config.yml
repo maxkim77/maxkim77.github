@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Max"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am max, and learning web application"
+  location         : "South, Korea"
+  email            : maxkim7723@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
